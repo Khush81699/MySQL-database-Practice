@@ -1,0 +1,69 @@
+# MySQL Database Foundations 🚀
+
+This repository represents my hands-on journey into mastering MySQL and building strong backend database fundamentals.
+
+Instead of just learning theory, I implemented structured SQL queries to understand how real-world databases are designed, managed, and queried efficiently.
+
+---
+
+## 📌 What This Project Covers
+
+- Database creation using `CREATE DATABASE`
+- Database selection using `USE`
+- Table design with structured schema
+- Implementation of `PRIMARY KEY`
+- Usage of `NOT NULL` constraint
+- Data insertion using `INSERT`
+- Data retrieval using `SELECT`
+- Clean and organized SQL scripting
+
+---
+
+## 🛠 Technologies Used
+
+- MySQL Server
+- MySQL Workbench
+- Git
+- GitHub
+
+---
+
+## 📂 Project File
+
+**mysql_practice_master.sql**
+
+This file contains:
+- Complete database setup
+- Employees table creation
+- Structured sample data insertion
+- Query execution examples
+
+---
+
+## 📅 Progress Update
+
+### ✅ Core Database Setup Completed
+- Successfully created and configured a MySQL database
+- Designed an `employees` table with proper constraints
+- Inserted multiple records with structured SQL queries
+- Retrieved and validated data using SELECT queries
+- Version controlled the project using Git
+- Pushed project to GitHub repository
+
+---
+
+## 🎯 Objective
+
+The goal of this repository is to build strong backend database fundamentals by practicing structured SQL queries and understanding how data is stored, organized, and retrieved.
+
+Strong foundations create strong developers.
+
+---
+
+## 📈 Learning Mindset
+
+Consistency over motivation.  
+Practice over theory.  
+Understanding over memorizing.  
+
+This repository marks the beginning of my structured backend development journey.
