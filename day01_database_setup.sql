@@ -1,35 +1,19 @@
-USE company_dbB;
--- Get employees from IT department
-SELECT * FROM employees
-WHERE department = 'IT';
+CREATE DATABASE IF NOT EXISTS company_db1;
 
--- Get employees with salary greater than 50000
-SELECT * FROM employees
-WHERE salary > 50000;
+USE company_db1;
 
--- Get employee with id = 1
-SELECT * FROM employees
-WHERE id = 1;
+DROP TABLE IF EXISTS employees;
 
--- Update salary of employee with id = 1
-UPDATE employees
-SET salary = 65000
-WHERE id = 1;
+CREATE TABLE employees (
+    id INT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    salary DOUBLE,
+    department VARCHAR(50)
+);
 
--- Verify update
+INSERT INTO employees (id, name, salary, department) VALUES
+(1, 'Khushboo', 50000, 'IT'),
+(2, 'Shivam', 45000, 'HR'),
+(3, 'Kumkum', 60000, 'Finance');
+
 SELECT * FROM employees;
-
--- Delete employee with id = 3
-DELETE FROM employees
-WHERE id = 3;
-
--- Check remaining data
-SELECT * FROM employees;
-
--- Sort employees by salary (low to high)
-SELECT * FROM employees
-ORDER BY salary ASC;
-
--- Sort employees by salary (high to low)
-SELECT * FROM employees
-ORDER BY salary DESC;
