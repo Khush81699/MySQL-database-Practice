@@ -1,8 +1,8 @@
-# MySQL Database Practice 🚀
+# MySQL Daily Practice 🚀
 
-This repository documents my structured journey in learning MySQL from fundamentals to advanced querying.
+This repository documents my structured journey of learning MySQL step by step through daily hands-on practice.
 
-Each day focuses on specific database concepts with practical implementation.
+Each day focuses on specific SQL concepts with real execution and implementation.
 
 ---
 
@@ -35,6 +35,18 @@ Concepts Covered:
 
 ---
 
+### 🔹 Day 3 – Constraints & Relationships
+File: `day03_constraints.sql`
+
+Concepts Covered:
+- UNIQUE constraint
+- DEFAULT constraint
+- CHECK constraint
+- FOREIGN KEY constraint
+- Table relationships
+
+---
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
@@ -45,7 +57,7 @@ Concepts Covered:
 
 ## 🎯 Objective
 
-To build strong backend database fundamentals through daily structured SQL practice.
+To build strong database fundamentals through consistent daily SQL practice.
 
-Consistency over motivation.
+Consistency over motivation.  
 Understanding over memorizing.
