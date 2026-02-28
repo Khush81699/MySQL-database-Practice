@@ -47,6 +47,19 @@ Concepts Covered:
 
 ---
 
+### 🔹 Day 4 – JOIN Operations
+
+File: day04_joins.sql
+-Concepts Covered:
+-INNER JOIN
+-LEFT JOIN
+-RIGHT JOIN
+-Table Relationships
+-Combining data from multiple tables
+-Handling NULL values in joins
+
+Understanding how relational databases connect multiple tables using keys.
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
