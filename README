@@ -58,7 +58,20 @@ File: day04_joins.sql
 -Combining data from multiple tables
 -Handling NULL values in joins
 
-Understanding how relational databases connect multiple tables using keys.
+🔹 Day 5 – GROUP BY & Aggregate Functions
+
+File: day05_groupby_aggregate.sql
+
+Concepts Covered:
+-COUNT()
+-SUM()
+-AVG()
+-MIN()
+-MAX()
+-GROUP BY
+-HAVING
+-Department-wise data analysis
+Understanding how SQL summarizes and analyzes grouped data.
 
 ## 🛠 Tools Used
 - MySQL Server
