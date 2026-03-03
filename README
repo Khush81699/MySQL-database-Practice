@@ -73,6 +73,19 @@ Concepts Covered:
 -Department-wise data analysis
 Understanding how SQL summarizes and analyzes grouped data.
 
+🔹 Day 6 – Subqueries
+
+File: day06_subqueries.sql
+
+Concepts Covered:
+-Subquery inside WHERE clause
+-MAX() with subquery
+-AVG() with subquery
+-Comparing column with nested query result
+-Execution order of nested queries
+
+Understanding how queries can depend on results of other queries.
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
