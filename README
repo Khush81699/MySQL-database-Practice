@@ -58,7 +58,7 @@ File: day04_joins.sql
 -Combining data from multiple tables
 -Handling NULL values in joins
 
-🔹 Day 5 – GROUP BY & Aggregate Functions
+### 🔹 Day 5 – GROUP BY & Aggregate Functions
 
 File: day05_groupby_aggregate.sql
 
@@ -73,7 +73,7 @@ Concepts Covered:
 -Department-wise data analysis
 Understanding how SQL summarizes and analyzes grouped data.
 
-🔹 Day 6 – Subqueries
+### 🔹 Day 6 – Subqueries
 
 File: day06_subqueries.sql
 
@@ -85,6 +85,16 @@ Concepts Covered:
 -Execution order of nested queries
 
 Understanding how queries can depend on results of other queries.
+
+### 🔹 Day 7 – Advanced Subqueries
+File: `day07_advanced_subqueries.sql`
+
+Concepts Covered:
+- IN operator with subqueries
+- EXISTS operator
+- ANY operator
+- ALL operator
+- Advanced filtering using nested queries
 
 ## 🛠 Tools Used
 - MySQL Server
