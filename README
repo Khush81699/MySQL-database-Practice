@@ -96,6 +96,17 @@ Concepts Covered:
 - ALL operator
 - Advanced filtering using nested queries
 
+### 🔹 Day 8 – Views
+File: `day08_views.sql`
+
+Concepts Covered:
+- CREATE VIEW
+- Using views
+- Virtual tables
+- Query simplification
+- SHOW VIEW
+- DROP VIEW
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
