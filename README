@@ -107,6 +107,16 @@ Concepts Covered:
 - SHOW VIEW
 - DROP VIEW
 
+### 🔹 Day 9 – Indexes
+File: day09_indexes.sql
+
+Concepts Covered:
+- CREATE INDEX
+- Composite Index
+- SHOW INDEX
+- DROP INDEX
+- Query performance optimization
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
