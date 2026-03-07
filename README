@@ -117,6 +117,18 @@ Concepts Covered:
 - DROP INDEX
 - Query performance optimization
 
+### 🔹 Day 10 – Stored Procedures
+File: day10_stored_procedures.sql
+
+Concepts Covered:
+- CREATE PROCEDURE
+- Calling procedures with CALL
+- Input parameters
+- SHOW PROCEDURE STATUS
+- DROP PROCEDURE
+
+Understanding how database logic can be encapsulated inside stored procedures.
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
