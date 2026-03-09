@@ -1,7 +1,7 @@
 USE company_db1;
 
 DROP TABLE IF EXISTS employees_procedure;
-
+-- Day 10 - Stored Procedures Practice
 CREATE TABLE employees_procedure (
     id INT PRIMARY KEY,
     name VARCHAR(50),
