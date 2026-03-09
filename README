@@ -127,6 +127,17 @@ Concepts Covered:
 - SHOW PROCEDURE STATUS
 - DROP PROCEDURE
 
+### 🔹 Day 11 – User Defined Functions
+File: day11_functions.sql
+
+Concepts Covered:
+- CREATE FUNCTION
+- Returning calculated values
+- Conditional logic in functions
+- Using functions in SELECT queries
+- SHOW FUNCTION STATUS
+- DROP FUNCTION
+
 Understanding how database logic can be encapsulated inside stored procedures.
 
 ## 🛠 Tools Used
