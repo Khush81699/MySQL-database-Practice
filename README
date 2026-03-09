@@ -138,6 +138,17 @@ Concepts Covered:
 - SHOW FUNCTION STATUS
 - DROP FUNCTION
 
+### 🔹 Day 12 – Triggers
+File: day12_triggers.sql
+
+Concepts Covered:
+- CREATE TRIGGER
+- AFTER INSERT trigger
+- AFTER DELETE trigger
+- NEW and OLD keywords
+- Automatic event logging
+- SHOW TRIGGERS
+
 Understanding how database logic can be encapsulated inside stored procedures.
 
 ## 🛠 Tools Used
