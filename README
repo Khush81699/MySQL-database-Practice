@@ -151,6 +151,17 @@ Concepts Covered:
 
 Understanding how database logic can be encapsulated inside stored procedures.
 
+### 🔹 Day 13 – Transactions
+File: day13_transactions.sql
+
+Concepts Covered:
+- START TRANSACTION
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+- ROLLBACK TO SAVEPOINT
+
+Understanding how databases maintain consistency during multi-step operations such as financial transactions.
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
