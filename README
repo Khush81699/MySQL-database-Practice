@@ -162,6 +162,27 @@ Concepts Covered:
 - ROLLBACK TO SAVEPOINT
 
 Understanding how databases maintain consistency during multi-step operations such as financial transactions.
+
+### 🔹 Day 14 – Window Functions
+File: day14_window_functions.sql
+
+Concepts Covered:
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- OVER clause
+- PARTITION BY
+
+
+### 🔹 Day 15 – Self Join
+File: day15_self_join.sql
+
+Concepts Covered:
+- Self Join
+- Table aliasing
+- Employee-manager relationship
+- Hierarchical queries
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
