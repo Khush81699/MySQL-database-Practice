@@ -183,6 +183,16 @@ Concepts Covered:
 - Employee-manager relationship
 - Hierarchical queries
 
+### 🔹 Day 16 – Common Table Expressions (CTE)
+File: day16_cte.sql
+
+Concepts Covered:
+- WITH clause
+- Common Table Expressions
+- Query readability improvement
+- Reusable query logic
+
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
