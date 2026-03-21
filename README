@@ -193,6 +193,24 @@ Concepts Covered:
 - Reusable query logic
 
 
+### 🔹 Day 17 – Temporary Tables
+File: day17_temporary_tables.sql
+
+Concepts Covered:
+- CREATE TEMPORARY TABLE
+- Session-specific tables
+- Intermediate query storage
+- Temporary data processing
+
+### 🔹 Day 18 – CASE Statements
+File: day18_case_statements.sql
+
+Concepts Covered:
+- CASE WHEN
+- Conditional logic in SQL
+- Dynamic column creation
+- Business rule implementation
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
