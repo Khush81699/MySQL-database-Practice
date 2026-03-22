@@ -211,6 +211,16 @@ Concepts Covered:
 - Dynamic column creation
 - Business rule implementation
 
+### 🔹 Day 19 – Subqueries with JOIN
+File: day19_subquery_joins.sql
+
+Concepts Covered:
+- Subqueries with JOIN
+- Correlated subqueries
+- Department-wise filtering
+- Group-wise maximum queries
+- Interview-level SQL queries
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
