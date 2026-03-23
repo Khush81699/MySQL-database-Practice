@@ -221,6 +221,16 @@ Concepts Covered:
 - Group-wise maximum queries
 - Interview-level SQL queries
 
+### 🔹 Day 20 – Views and Data Security
+File: day20_views_security.sql
+
+Concepts Covered:
+- Views for data abstraction
+- Hiding sensitive columns
+- Role-based data access
+- Filtering data using views
+- Real-world database usage
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
