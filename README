@@ -231,6 +231,17 @@ Concepts Covered:
 - Filtering data using views
 - Real-world database usage
 
+### 🔹 Day 21 – SQL Interview Practice
+File: day21_interview_queries.sql
+
+Concepts Covered:
+- Second highest salary
+- Nth highest salary
+- Department-wise filtering
+- GROUP BY and HAVING
+- Pattern matching
+- Sorting queries
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
