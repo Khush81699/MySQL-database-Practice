@@ -242,6 +242,17 @@ Concepts Covered:
 - Pattern matching
 - Sorting queries
 
+### 🔹 Day 22 – Advanced SQL Queries
+File: day22_advanced_queries.sql
+
+Concepts Covered:
+- Window functions (RANK, DENSE_RANK, ROW_NUMBER)
+- PARTITION BY
+- Running totals
+- LAG and LEAD functions
+- Department-wise ranking
+- Advanced SQL analytics queries
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
