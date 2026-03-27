@@ -253,6 +253,15 @@ Concepts Covered:
 - Department-wise ranking
 - Advanced SQL analytics queries
 
+### 🔹 Day 23 – Recursive CTE
+File: day23_recursive_cte.sql
+
+Concepts Covered:
+- WITH RECURSIVE
+- Hierarchical queries
+- Tree structure traversal
+- Employee-manager hierarchy
+- Path building using recursion
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
