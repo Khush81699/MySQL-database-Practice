@@ -262,6 +262,17 @@ Concepts Covered:
 - Tree structure traversal
 - Employee-manager hierarchy
 - Path building using recursion
+
+### 🔹 Day 24 – Query Optimization
+File: day24_query_optimization.sql
+
+Concepts Covered:
+- EXPLAIN keyword
+- Query performance analysis
+- Index optimization
+- Composite indexes
+- Efficient query design
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
