@@ -273,6 +273,16 @@ Concepts Covered:
 - Composite indexes
 - Efficient query design
 
+### 🔹 Day 25 – Database Design
+File: day25_database_design.sql
+
+Concepts Covered:
+- Database normalization basics
+- Table relationships (1:N)
+- Foreign key constraints
+- Multi-table joins
+- Real-world schema design
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
