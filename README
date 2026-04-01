@@ -283,6 +283,16 @@ Concepts Covered:
 - Multi-table joins
 - Real-world schema design
 
+### 🔹 Day 26 – SQL Case Study (E-Commerce)
+File: day26_case_study.sql
+
+Concepts Covered:
+- Real-world schema design
+- Revenue calculation
+- Sales analysis queries
+- Multi-table joins
+- Business insights from SQL
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
