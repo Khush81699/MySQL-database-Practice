@@ -293,6 +293,16 @@ Concepts Covered:
 - Multi-table joins
 - Business insights from SQL
 
+### 🔹 Day 27 – Transactions + Triggers
+File: day27_transactions_triggers.sql
+
+Concepts Covered:
+- Transactions (COMMIT, ROLLBACK)
+- Trigger-based validation
+- Error handling using SIGNAL
+- Banking system logic
+- Data consistency and integrity
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
