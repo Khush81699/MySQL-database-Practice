@@ -303,6 +303,16 @@ Concepts Covered:
 - Banking system logic
 - Data consistency and integrity
 
+### 🔹 Day 28 – Sales Analytics Case Study
+File: day28_analytics_case_study.sql
+
+Concepts Covered:
+- Revenue analysis queries
+- Category-wise aggregation
+- Product performance tracking
+- Monthly sales analytics
+- Top customer identification
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
