@@ -313,6 +313,17 @@ Concepts Covered:
 - Monthly sales analytics
 - Top customer identification
 
+### 🔹 Day 29 – Advanced SQL Interview Questions
+File: day29_interview_hard.sql
+
+Concepts Covered:
+- DENSE_RANK and RANK
+- Correlated subqueries
+- HAVING clause
+- Top-N queries
+- Pattern matching
+- Department-level analytics
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
