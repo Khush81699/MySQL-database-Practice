@@ -324,6 +324,17 @@ Concepts Covered:
 - Pattern matching
 - Department-level analytics
 
+### 🔹 Day 30 – Final SQL Project (E-Commerce Analysis)
+File: day30_final_project.sql
+
+Concepts Covered:
+- Database schema design
+- Multi-table relationships
+- Revenue and sales analytics
+- Customer insights
+- Product performance analysis
+- Monthly business reporting
+
 ## 🛠 Tools Used
 - MySQL Server
 - MySQL Workbench
